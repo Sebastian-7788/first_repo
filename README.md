@@ -1,3 +1,4 @@
 # first_repo
+This is my first git repository
+<br>
 Author -- Sebastian
-This is a second change
